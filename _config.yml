@@ -1,0 +1,19 @@
+# Jekyll. GitHub Pages собирает это само при пуше в master.
+title: "dilmurodov"
+author: "Tolibbek Dilmurodov"
+email: ""
+description: >
+  Notes on what we build.
+# GitHub Pages для <user>.github.io/<repo> отдаёт сайт из /<repo>.
+# Для домена или <user>.github.io оставьте пустым.
+baseurl: "/blog"
+url: "https://dilmurodov.github.io"
+lang: en-us
+
+links:
+  - name: GitHub
+    url: https://github.com/dilmurodov
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
+exclude: [README.md, NOTICE]

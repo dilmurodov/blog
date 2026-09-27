@@ -1,0 +1,13 @@
+Layouts (_layouts/) and stylesheets (css/) are adapted from
+https://github.com/mbrooker/mbrooker-blog, which states:
+
+    "All other files are MIT licensed, and are branched from
+     mojombo.github.com."
+
+  - https://github.com/mojombo/mojombo.github.com
+
+Only those MIT-licensed files were taken. None of that blog's posts
+(_posts/, CC-BY-3.0) or personal content were copied; the layout was
+stripped of its author's name, bio, contact details and links.
+
+Posts in this repository are the property of their authors.
