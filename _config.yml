@@ -17,3 +17,6 @@ links:
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 exclude: [README.md, NOTICE]
+
+plugins:
+  - jekyll-feed
